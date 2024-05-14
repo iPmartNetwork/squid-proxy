@@ -12,7 +12,7 @@
 
 # Squid Proxy Installer
 
-https://github.com/iPmartNetwork/squid-proxy/
+
 
 Auto install Squid 3 proxy on following linux OS.
 
